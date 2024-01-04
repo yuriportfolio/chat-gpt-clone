@@ -1,7 +1,8 @@
 repo_name: yuriportfolio/chat-gpt-clone
 report_id: 83bb94d675865c8185416edcaab328dc
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T20:03:02+00:00'
+timestamp: '2024-01-04T15:13:20+00:00'
 requested_by: renato76
 provider: github
 branch: main
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone
   detection_source: Repo Metadata
 - name: Autoprefixer
   description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
@@ -44,6 +48,7 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/package.json
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 23:17:12.000000000 Z
@@ -56,7 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/5936/nextjs.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 12:52:33.000000000 Z
@@ -69,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/package.json
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 12:52:33.000000000 Z
@@ -82,7 +88,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-03-02 11:41:08.000000000 Z
@@ -94,6 +100,7 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/package.json
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-03-02 11:41:08.000000000 Z
@@ -105,6 +112,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone
   detection_source: Repo Metadata
 - name: Yarn
   description: A new package manager for JavaScript
@@ -114,6 +122,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: yarn.lock
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 14:26:55.000000000 Z
@@ -125,6 +134,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/package.json
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 12:52:33.000000000 Z
@@ -138,7 +148,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 12:52:33.000000000 Z
@@ -152,7 +162,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-03-02 11:41:08.000000000 Z
@@ -166,7 +176,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-03-02 11:41:08.000000000 Z
@@ -180,7 +190,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16012/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 23:17:12.000000000 Z
@@ -201,7 +211,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-03-02 11:41:08.000000000 Z
@@ -215,7 +225,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
-  detection_source_url: yarn.lock
+  detection_source_url: https://github.com/yuriportfolio/chat-gpt-clone/blob/main/yarn.lock
   detection_source: package.json
   last_updated_by: Renato Mignogna
   last_updated_on: 2023-02-28 23:17:12.000000000 Z
